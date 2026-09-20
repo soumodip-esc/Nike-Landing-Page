@@ -62,47 +62,6 @@ project-root/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repository-url>
-```
-
-### 2. Open the project directory
-
-```bash
-cd <project-folder>
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-Open the local URL shown in your terminal, usually:
-
-```text
-http://localhost:5173
-```
-
-## 📦 Available Scripts
-
-| Command           | Description                   |
-| ----------------- | ----------------------------- |
-| `npm run dev`     | Starts the development server |
-| `npm run build`   | Creates a production build    |
-| `npm run preview` | Previews the production build |
-| `npm run lint`    | Checks the code using ESLint  |
-
 ## 🎨 Styling
 
 The project uses Tailwind CSS with customized:
